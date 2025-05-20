@@ -8,16 +8,16 @@ A digital version of the classic **Monopoly board game**, built to bring the fun
 
 ## 🎯 Features
 
-* Supports 2 to 6 players (local multiplayer or AI opponents)
+* Supports 4 to 6 players (local multiplayer or AI opponents)
 * Interactive game board with player movement
-* Buying, trading, and upgrading properties
+* Buying, trading,selling , and upgrading properties
 * Chance and Community Chest cards
-* Jail, taxes, and all the classic rules
+* prison, taxes, and all the classic rules
 * Real-time game status and player stats
 
 ## 🛠️ Technologies Used
 
-* **Programming Language:** Python / Java / JavaScript / C++ (← update with your language)
+* **Programming Language:** Python / c / JavaScript / C++ (← update with your language)
 * **UI Framework:** Tkinter / JavaFX / Pygame / React (if applicable)
 * **Other Tools:** (Add any libraries or tools used, e.g., SQLite for saving game state)
 
